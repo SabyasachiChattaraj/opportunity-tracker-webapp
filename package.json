@@ -1,0 +1,32 @@
+{
+  "name": "opportunity-tracker-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "16.0.31",
+    "devextreme": "^18.1.4",
+    "devextreme-react": "18.1.4-alpha.8",
+    "jquery": "^3.3.1",
+    "jszip": "^3.1.5",
+    "prop-types": "^15.6.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts-ts": "2.16.0",
+    "react-transition-group": "^2.4.0",
+    "reactstrap": "^6.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.1.6",
+    "@types/node": "^10.5.2",
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "typescript": "^2.9.2"
+  }
+}
